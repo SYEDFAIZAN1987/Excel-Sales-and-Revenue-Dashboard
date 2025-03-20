@@ -37,4 +37,4 @@ This repository contains an **Excel-based Sales and Revenue Dashboard** designed
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
 ---
-For any queries, contact [your-email@example.com](mailto:your-email@example.com).
+
